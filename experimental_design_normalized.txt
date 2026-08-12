@@ -1,0 +1,21 @@
+SampleID	Name	Group
+Abundances (Normalized): F1: Sample, 1	ctr1	ctr
+Abundances (Normalized): F2: Sample, 2	ctr2	ctr
+Abundances (Normalized): F3: Sample, 3	ctr3	ctr
+Abundances (Normalized): F4: Sample, 4	ctr4	ctr
+Abundances (Normalized): F5: Sample, 5	T30m-1	T30m
+Abundances (Normalized): F6: Sample, 6	T30m-2	T30m
+Abundances (Normalized): F7: Sample, 7	T30m-3	T30m
+Abundances (Normalized): F8: Sample, 8	T30m-4	T30m
+Abundances (Normalized): F9: Sample, 9	T1h1-1	T1h
+Abundances (Normalized): F10: Sample, 10	T1h1-2	T1h
+Abundances (Normalized): F11: Sample, 11	T1h1-3	T1h
+Abundances (Normalized): F12: Sample, 12	T1h1-4	T1h
+Abundances (Normalized): F13: Sample, 13	T2h-1	T2h
+Abundances (Normalized): F14: Sample, 14	T2h-2	T2h
+Abundances (Normalized): F15: Sample, 15	T2h-3	T2h
+Abundances (Normalized): F16: Sample, 16	T2h-4	T2h
+Abundances (Normalized): F17: Sample, 17	T4h-1	T4h
+Abundances (Normalized): F18: Sample, 18	T4h-2	T4h
+Abundances (Normalized): F19: Sample, 19	T4h-3	T4h
+Abundances (Normalized): F20: Sample, 20	T4h-4	T4h
